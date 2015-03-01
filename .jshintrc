@@ -1,0 +1,13 @@
+{
+  "node"     : true,
+  "es5"      : true,
+  "strict"   : true,
+  "undef"    : true,
+  "eqeqeq"   : true,
+  "latedef"  : true,
+  "unused"   : true,
+  "newcap"   : true,
+  "quotmark" : "single",
+  "indent"   : 2,
+  "globals"  : {}
+}
